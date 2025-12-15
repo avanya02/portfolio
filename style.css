@@ -190,11 +190,6 @@ a {
 
 /* SKILLS */
 
-.section.light {
-  
-  position: relative;
-  z-index: 2;
-}
 
 .skills-grid {
   display: grid;
@@ -455,5 +450,6 @@ a {
   position: relative;
 
 }
+
 
 
