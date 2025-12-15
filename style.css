@@ -190,7 +190,11 @@ a {
 
 /* SKILLS */
 
-
+.section.light {
+  margin-top: -80px;
+  position: relative;
+  z-index: 2;
+}
 
 .skills-grid {
   display: grid;
@@ -451,3 +455,4 @@ a {
   position: relative;
 
 }
+
